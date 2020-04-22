@@ -1,0 +1,30 @@
+@page  {
+  margin: 0.25in;
+  size: letter;
+}
+
+body {
+  background-color: snow;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.left-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.name {
+  color: steelblue;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+}
+
